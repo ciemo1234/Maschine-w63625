@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73f6601d-1f67-4ad7-82d6-2e131f610b88" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ePYQ4USxgEjilOpkajh99islUL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73f6601d-1f67-4ad7-82d6-2e131f610b88" name="Default Changelist" comment="" />
+      <created>1594224679863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594224679863</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="120" y="65" key="#Project_Structure" timestamp="1594224963620">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="120" y="65" key="#Project_Structure/0.0.1280.984@0.0.1280.984" timestamp="1594224963620" />
+    <state x="94" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594225325031">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="94" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1594225325031" />
+    <state x="13" y="113" key="Maven.ArtifactSearchDialog" timestamp="1594234637454">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="13" y="113" key="Maven.ArtifactSearchDialog/0.0.1280.984@0.0.1280.984" timestamp="1594234637454" />
+    <state x="75" y="131" key="SettingsEditor" timestamp="1594225989743">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="75" y="131" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1594225989743" />
+  </component>
+</project>
